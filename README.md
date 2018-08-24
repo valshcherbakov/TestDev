@@ -1,2 +1,2 @@
 # TestDev
-First project kuku
+First project
